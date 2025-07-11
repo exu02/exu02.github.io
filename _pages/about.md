@@ -11,7 +11,7 @@ profile:
   more_info: 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -26,4 +26,4 @@ latest_posts:
 
 I'm a data scientist and software engineer currently working at Optum as a full-stack software developer. I have a background in biomedical engineering (B.S.) and data science (M.S.) with experience in both academic research and industry. Most of my work has been in healthcare and medicine, where I've used deep learning, traditional ML modeling, and LLMs to help solve real-world problems in medicine.
 
-Outside of work, I still like to fiddle around with data, whether it's writing quick Monte Carlo simulations with Numpy to answer some random probability questions (like how much does advantage actually help you in D&D?) or building an app to help organize my chaotic Spotify playlists using the audio features. I'm drawn to projects where I can build something end-to-end, using data to make everyday experiences a little smarter, more efficient, and more enjoyable.
+Outside of work, I still like to fiddle around with data, whether it's writing quick Monte Carlo simulations with Numpy to answer some random probability questions (like how much does advantage actually help you in D&D?) or building an app to help organize my chaotic Spotify playlists using audio features. I'm drawn to projects where I can use data to make everyday experiences a little smarter, more efficient, and more enjoyable.
