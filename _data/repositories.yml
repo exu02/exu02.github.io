@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - exu02
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - exu02/spotify-ui
+  - exu02/spotify-backend
+  - exu02/resident-scheduler
