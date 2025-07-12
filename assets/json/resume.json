@@ -1,200 +1,134 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Edward Xu",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "xu.edward02@gmail.com",
+    "phone": "630-863-8865",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Durham",
       "countryCode": "US",
-      "region": "California"
+      "region": "NC"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Optum",
+      "position": "Software Engineer",
+      "location": "Durham, NC",
+      "startDate": "2023.07",
+      "endDate": "Present",
+      "summary": "Full-stack developer and data engineer at Optum Health.",
+      "highlights": [
+        "Conducted exploratory data analysis, embedding evaluation, and prompt engineering to develop and demonstrate NLP solutions for business stakeholders.",
+        "Managed SQL scripts for software releases and ensured the upkeep of Azure Data Factory pipelines.",
+        "Developed production features with cross-functional engineering teams, implementing backend services and business logic."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "DePaul University",
+      "position": "Machine Learning Research Assistant",
+      "location": "Chicago, IL",
+      "startDate": "2021.10",
+      "endDate": "2023.06",
+      "summary": "Graduate researcher in the Visual Informatics and Data Analytics (VIDA) group.",
+      "highlights": [
+        "Applied deep learning and computer vision models to improve automated diagnosis in medical imaging.",
+        "Analyzed clinical trial data using supervised and unsupervised methods to uncover treatment effect heterogeneity.",
+        "Co-authored and published three papers in peer-reviewed conferences and journals on applications of machine learning in healthcare."
+      ]
+    },
+    {
+      "name": "Epic Systems Corporation",
+      "position": "Technical Solutions Engineer",
+      "location": "Verona, WI",
+      "startDate": "2019-08",
+      "endDate": "2021-08",
+      "summary": "Client-facing technical SME for inpatient nursing tools and member of the predictive analytics internal work group.",
+      "highlights": [
+        "Advised 15+ health systems on deploying and validating clinical predictive models.",
+        "Supported regulatory data reporting and optimized EHR workflows in collaboration with client IT teams.",
+        "Mentored new team members in technical communication and client engagement best practices."
+      ]
+    },
+    {
+      "name": "Five Prime Therapeutics",
+      "position": "Analytical Development Intern",
+      "location": "South San Francisco, CA",
+      "startDate": "2018-06",
+      "endDate": "2018-09",
+      "summary": "Assay automation engineering intern."
+    },
+    {
+      "name": "Eli Lilly and Company",
+      "position": "Summer Undergraduate Researcher",
+      "location": "Indianapolis, IN",
+      "startDate": "2017-06",
+      "endDate": "2017-09",
+      "summary": "Drug discovery research intern."
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "DePaul University",
+      "location": "Chicago, IL",
+      "url": "https://www.cdm.depaul.edu/academics/Pages/MS-in-Data-Science.aspx",
+      "area": "Data Science",
+      "studyType": "M.S.",
+      "startDate": "2021-09",
+      "endDate": "2023-06",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "Northwestern University",
+      "location": "Evanston, IL",
+      "url": "https://www.mccormick.northwestern.edu/biomedical/academics/undergraduate/",
+      "area": "Biomedical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2015-09",
+      "endDate": "2019-06",
+      "score": "3.7",
+      "courses": []
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "keywords": ["Python", "R", "SQL", "Javascript", "Java"]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Libraries and Frameworks",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "Keras", "PyTorch", "Matplotlib", "ggplot2", "Angular", "Streamlit", "Flask"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Machine Learning",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Supervised and unsupervised learning", "Deep learning for NLP and computer vision", "Generative modeling"]
     }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
 }
